@@ -23,7 +23,7 @@ template = """
 
     Please start the email with a warm introduction. Add the introduction if you need to.
 
-    Below is the eamil, tone, and dialect:
+    Below is the email, tone, and dialect:
     TONE: {tone}
     DIALECT: {dialect}
     EMAIL: {email}
